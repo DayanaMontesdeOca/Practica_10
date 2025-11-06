@@ -1,5 +1,5 @@
 /*Dayana Monserrat Rivera Montes de Oca
-Laboratorio 10 Programa 4*/
+Laboratorio 10 Programa 2c*/
 
 #include<stdio.h>
 
